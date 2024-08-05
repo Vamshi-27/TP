@@ -1,5 +1,4 @@
 # WhatsApp Automation
-# Send WhatsApp message to a number at a given time.
 
 import pywhatkit
 pywhatkit.sendwhatmsg('+91 6363740573', 'Hello', 7, 3)
